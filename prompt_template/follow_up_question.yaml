@@ -1,0 +1,6 @@
+prompt: |
+  Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question,
+  Chat history:{chat_history}
+  Follow up question: {question}
+  Your output will just an json object with only "question" key
+  

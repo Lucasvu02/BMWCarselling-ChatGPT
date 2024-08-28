@@ -10,9 +10,3 @@
 /src/retrieval: Creating VectorDatabase and Retriever
 
 /app.py: Streamlit Deployment
-
-## Streamlit link
-https://carchatbotbmw.streamlit.app/ 
-
-##  Replace OPENAI API Key
-Change openai_key in src/utils.py
